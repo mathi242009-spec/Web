@@ -1,0 +1,12 @@
+{
+  "name": "NITRO NAV 3D",
+  "short_name": "NITRO NAV",
+  "description": "Navegación retro 3D con mapas guardados para zonas visitadas.",
+  "start_url": "./nitro-nav-offline.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#061019",
+  "theme_color": "#061019",
+  "icons": [{"src":"./nitro-nav-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
